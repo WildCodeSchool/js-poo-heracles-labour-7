@@ -1,4 +1,4 @@
-# Labors of Heracles #6: Finalize the game
+# Labors of Heracles #7: Finalize the game
 
 Prerequisite: clone this *repository*.
 The objective of this step is to group all your workshops into a single project. The interface and your hero will thus evolve as your work progresses.

@@ -263,6 +263,7 @@ class ArenaTemplate extends TemplateRoot {
     } else {
       document.getElementById("digButton").style.display = "none";
     }
+    ArenaHTML.setMonsterClick(arena);
   }
 
   /**
@@ -290,7 +291,6 @@ class ArenaTemplate extends TemplateRoot {
 
         arena.globalMove(directions[keyName], arena.hero);
         this.createArena(arena);
-        this.setMonsterClick(arena);
       }
     });
   }

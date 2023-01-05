@@ -1,4 +1,4 @@
-# Travaux d'Héraclès #6 : Finaliser le jeux
+# Travaux d'Héraclès #7 : Finaliser le jeux
 
 Prérequis : cloner ce *repository*.
 L'objectif de cette étape est de regrouper tous vos workshops dans un seul et même projet. L'interface et votre héros évolueront ainsi au fur et à mesure de vos travaux.
